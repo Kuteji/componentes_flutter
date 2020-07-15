@@ -21,6 +21,9 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       title: 'Componentes App',
       debugShowCheckedModeBanner: false,
+
+
+      
       // home: HomePage(),
       initialRoute: '/',
       routes: getApplicationRoutes(),
