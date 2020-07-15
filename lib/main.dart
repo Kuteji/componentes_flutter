@@ -22,8 +22,6 @@ class MyApp extends StatelessWidget {
       title: 'Componentes App',
       debugShowCheckedModeBanner: false,
 
-
-      
       // home: HomePage(),
       initialRoute: '/',
       routes: getApplicationRoutes(),
